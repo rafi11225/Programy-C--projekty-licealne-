@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1617541314 source:c:\users\rafal\desktop\programy c++\cwiczenia\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+

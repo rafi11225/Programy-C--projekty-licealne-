@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1639578697 source:c:\users\rafi11225\desktop\programy c++\losowanie liter\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<stdio.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1613401250 source:c:\users\rafal\desktop\programy c++\infa zadanie 16_02\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+

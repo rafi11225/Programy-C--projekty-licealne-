@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1639677433 source:c:\users\rafi11225\desktop\programy c++\pisanie liczbami\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<windows.h>
+
